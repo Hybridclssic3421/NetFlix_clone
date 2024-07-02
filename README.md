@@ -12,7 +12,7 @@ A Netflix clone built with React Native with Vite.Js
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/Hybridclassic3421/netflix-clone.git`
+1. Clone the repository: `git clone https://github.com/Hybridclssic3421/NetFlix_clone.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 

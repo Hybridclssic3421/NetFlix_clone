@@ -23,7 +23,7 @@ A Netflix clone built with React Native with Vite.Js
 
 ## Features
 
-* The Database API is used in this is IMDB Database
+* The Database API is used in this is TMDB Database
 
 ## Contributing
 

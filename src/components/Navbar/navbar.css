@@ -1,0 +1,32 @@
+.navbar{
+    background-image: linear-gradient(180deg, rgba(0,0,0,0.7) 10%, transparent);
+    z-index: 1;
+    padding: 20px 6%;
+}
+.navbar-left img{
+    width: 90px;
+}
+.navbar-right .icons{
+    width: 20px;
+    cursor: pointer;
+}
+.navbar-right .profile{
+    width: 35px;
+}
+.navbar .dropdown{
+    top: 70%;
+    right: 70px;
+    width: max-content;
+    background: #191919;
+    padding: 18px 22px;
+    border-radius: 2px;
+    text-decoration: underline;
+    z-index: 1;
+    display: none;
+}
+.navbar-profile:hover .dropdown{
+    display: block;
+}
+.nav-dark{
+    background: #141414;
+}

@@ -1,0 +1,49 @@
+.banner-img{
+    mask-image: linear-gradient(to right, transparent, black 75%);
+    -weblit-tap-highlight-color: linear-gradient(to right, transparent, black 75%);
+}
+.hero-caption{
+    padding-left: 6%;
+    bottom: 0;
+}
+.caption-img{
+    margin-bottom: 30px;
+    max-width: 420px;
+}
+.hero-caption p{
+    max-width: 700px;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.hero-btns{
+    margin-bottom: 50px;
+}
+.hero-btns .btn img{
+    width: 25px;
+}
+.hero-btns .btn{
+    border: 0;
+    outline: 0;
+    padding: 8px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    background: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.hero-btns .btn.dark-btn{
+    color: #fff;
+    background: #6d6d6d6d;
+}
+.hero-btns .btn:hover{
+    background: #ffffffbf;
+}
+.hero-btns .btn.dark-btn:hover{
+    background: #3f3f3f66;
+}
+.more-cards{
+    padding-left: 6%;
+}

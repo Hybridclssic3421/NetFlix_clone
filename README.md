@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone 🚀
 ================
 
 A Netflix clone built with React Native with Vite.Js
